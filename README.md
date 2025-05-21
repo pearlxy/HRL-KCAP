@@ -61,4 +61,4 @@ python hrl_parking.py
 coming soon...
 
 ## Reference
-Thanks to these open-source projects and their contributions: [Carla 0.9.12](https://github.com/carla-simulator/carla.git), [Carla-ros-bridge 0.9.12](https://github.com/carla-simulator/ros-bridge.git), and [CADLabeler](https://github.com/BruceXSK/CADLabeler) .
+Thanks to these open-source projects and their contributions: [Carla 0.9.12](https://github.com/carla-simulator/carla.git), [Carla-ros-bridge 0.9.12](https://github.com/carla-simulator/ros-bridge.git), and [CADLabeler](https://github.com/BruceXSK/CADLabeler).

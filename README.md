@@ -3,7 +3,7 @@
 
 **Autonomous Parking Examples**
 <figure>
-  <img src="images/total.gif" style="width: 90%;">
+  <img src="images/total.gif" style="width: 88%;">
 </figure>
 
 <figure>

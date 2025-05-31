@@ -6,6 +6,10 @@
   <img src="images/total.gif">
 </figure>
 
+<figure>
+  <img src="images/real-world.gif">
+</figure>
+
 ## Environment
 This project depends on these following packages, please use **pip install** command to install them. At the same time, please configure the simulation environment according to the official instructions, including [carla-0.9.12](https://github.com/carla-simulator/carla.git) and [carla-ros-bridge-0.9.12](https://github.com/carla-simulator/ros-bridge.git).
 ```

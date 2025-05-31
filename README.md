@@ -23,7 +23,7 @@ scipy 1.10.1
 ``` bash
 conda create -n parking python=3.8.10
 conda activate parking
-git clone https://github.com/Lihuaka/HRL-KCAP.git
+git clone https://github.com/pearlxy/HRL-KCAP.git
 cd HRL-KCMS
 ```
 

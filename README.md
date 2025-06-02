@@ -12,10 +12,12 @@
 
 ## Video Demonstration
 ### Simulated Environment Evaluation
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=0_B2VkF1iE4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0_B2VkF1iE4/0.jpg)](https://www.youtube.com/watch?v=0_B2VkF1iE4)
+
 
 ### Real-World Environment Evaluation
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=q4GNASPhZ2I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/q4GNASPhZ2I/0.jpg)](https://www.youtube.com/watch?v=q4GNASPhZ2I)
+
 
 ## Environment
 This project depends on these following packages, please use **pip install** command to install them. At the same time, please configure the simulation environment according to the official instructions, including [carla-0.9.12](https://github.com/carla-simulator/carla.git) and [carla-ros-bridge-0.9.12](https://github.com/carla-simulator/ros-bridge.git).

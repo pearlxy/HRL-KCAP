@@ -10,14 +10,6 @@
   <img src="images/real-world.gif">
 </figure>
 
-## Video Demonstration
-### Simulated Environment Evaluation
-[![HRL-KCAP Simulation](https://img.youtube.com/vi/0_B2VkF1iE4/0.jpg)](https://www.youtube.com/watch?v=0_B2VkF1iE4)
-
-
-### Real-World Environment Evaluation
-[![HRL-KCAP Real-World](https://img.youtube.com/vi/q4GNASPhZ2I/0.jpg)](https://www.youtube.com/watch?v=q4GNASPhZ2I)
-
 
 ## Environment
 This project depends on these following packages, please use **pip install** command to install them. At the same time, please configure the simulation environment according to the official instructions, including [carla-0.9.12](https://github.com/carla-simulator/carla.git) and [carla-ros-bridge-0.9.12](https://github.com/carla-simulator/ros-bridge.git).
@@ -69,6 +61,16 @@ Please download our weight file [best.pt](https://drive.google.com/file/d/1EWbA1
 ```
 python hrl_parking.py
 ```
+
+## Video Demonstration
+### Simulated Environment Evaluation
+[![HRL-KCAP Simulation](https://img.youtube.com/vi/0_B2VkF1iE4/0.jpg)](https://www.youtube.com/watch?v=0_B2VkF1iE4)
+
+
+### Real-World Environment Evaluation
+[![HRL-KCAP Real-World](https://img.youtube.com/vi/q4GNASPhZ2I/0.jpg)](https://www.youtube.com/watch?v=q4GNASPhZ2I)
+
+
 
 ## Training
 coming soon...

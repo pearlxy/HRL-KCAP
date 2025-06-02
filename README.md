@@ -12,11 +12,11 @@
 
 ## Video Demonstration
 ### Simulated Environment Evaluation
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0_B2VkF1iE4/0.jpg)](https://www.youtube.com/watch?v=0_B2VkF1iE4)
+[![HRL-KCAP Simulation](https://img.youtube.com/vi/0_B2VkF1iE4/0.jpg)](https://www.youtube.com/watch?v=0_B2VkF1iE4)
 
 
 ### Real-World Environment Evaluation
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/q4GNASPhZ2I/0.jpg)](https://www.youtube.com/watch?v=q4GNASPhZ2I)
+[![HRL-KCAP Real-World](https://img.youtube.com/vi/q4GNASPhZ2I/0.jpg)](https://www.youtube.com/watch?v=q4GNASPhZ2I)
 
 
 ## Environment

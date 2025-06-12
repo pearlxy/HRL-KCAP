@@ -64,7 +64,7 @@ python hrl_parking.py
 
 ## Video Demonstration
 ### Simulated Environment Evaluation
-[![HRL-KCAP Simulation](https://img.youtube.com/vi/0_B2VkF1iE4/0.jpg)](https://www.youtube.com/watch?v=0_B2VkF1iE4)
+[![HRL-KCAP Simulation](https://img.youtube.com/vi/2ghG0hyuTis/0.jpg)](https://www.youtube.com/watch?v=2ghG0hyuTis)
 
 
 ### Real-World Environment Evaluation
